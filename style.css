@@ -1,0 +1,11 @@
+            body {
+                margin: 0;
+            }
+            
+        .portfolio {
+                padding: 5px calc(50% - 1920px / 2);
+                background-image: url(img/portfolio.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center -100px;
+            }
